@@ -25,5 +25,16 @@ novos desafios e tecnologias.
 
 ---
 
+## Alguns Projetos feitos no Bootcamp da Labenu
+
+#### **FRONTEND**
+###### **[CASE BRAINN - LOTERIAS](https://github.com/future4code/ailton-leonardo-silva/pull/68)**
+
+#### **BACKEND**
+###### **[CASE ESTANTE VIRTUAL](https://github.com/future4code/ailton-leonardo-silva/pull/67)**
+###### **[CASE AMARO](https://github.com/future4code/ailton-leonardo-silva/pull/66)**
+###### **[COOKENU](https://github.com/future4code/ailton-leonardo-silva/pull/58)**
+###### **[LABOOK](https://github.com/future4code/ailton-leonardo-silva/pull/63)**
+
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardosimas&show_icons=true)
