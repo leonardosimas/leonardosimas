@@ -6,6 +6,7 @@ React, Node, Typescript. Hoje, continuo estudando e pronto para
 novos desafios e tecnologias.
 
 🔭 Atualmente faço parte da Equipe de desenvolvedores da **Dinocode Technologies**.
+Continuo o meu aperfeiçoamento utilizando o NextJS e o Next UI. Estudando atualmente, Nest e blockchain.
 
 💬 Meu [linkedin](https://www.linkedin.com/in/leonardo-simas-b46271a5/)
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
@@ -24,6 +25,16 @@ novos desafios e tecnologias.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
 ---
+## **PROJETOS**
+
+#### Estou fazendo a criação desse e-commerce de Macramê artesanal.
+
+###### **[CANTINHO DE NÓS](https://github.com/leonardosimas/cantinhodenos)**
+
+#### Implementação do backend de um bolão para a Copa do Mundo 2022.
+
+###### **[BOLÃO DA COPA](https://github.com/leonardosimas/CopadoMundo)**
+
 
 ## Alguns Projetos feitos no Bootcamp da Labenu
 
