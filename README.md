@@ -24,6 +24,8 @@ Continuo o meu aperfeiçoamento utilizando o NextJS e o Next UI. Estudando atual
 
 ###### **[CANTINHO DE NÓS](https://github.com/leonardosimas/cantinhodenos)**
 
+###### **[CANTINHO DE NÓS - BACKEND](https://github.com/leonardosimas/cantinhodenos-backend)**
+
 #### Implementação do backend de um bolão para a Copa do Mundo 2022.
 
 ###### **[BOLÃO DA COPA](https://github.com/leonardosimas/CopadoMundo)**
