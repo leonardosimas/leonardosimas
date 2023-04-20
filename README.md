@@ -6,7 +6,7 @@ React, Node, Typescript. Hoje, continuo estudando e pronto para
 novos desafios e tecnologias.
 
 🔭 Atualmente faço parte da Equipe de desenvolvedores da **Dinocode Technologies**.
-Continuo o meu aperfeiçoamento utilizando o NextJS e o Next UI. Estudando atualmente, Nest e blockchain.
+Continuo o meu aperfeiçoamento utilizando o NextJS, Next UI, Nest JS. Estudando atualmente, Payload CMS e MongoDB.
 
 💬 Meu [linkedin](https://www.linkedin.com/in/leonardo-simas-b46271a5/)
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
