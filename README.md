@@ -20,6 +20,10 @@ Continuo o meu aperfeiçoamento utilizando o NextJS, Next UI, Nest JS. Estudando
 ---
 ## **PROJETOS**
 
+#### Este é um gerador de senhas seguras e mnemônicos, um trabalho sobre criptografia e blockchain.
+
+###### **[VIRTUAL WALLET AND PASSWORD](https://github.com/leonardosimas/virtual-wallet)**
+
 #### Estou fazendo a criação desse e-commerce de Macramê artesanal.
 
 ###### **[CANTINHO DE NÓS](https://github.com/leonardosimas/cantinhodenos)**
