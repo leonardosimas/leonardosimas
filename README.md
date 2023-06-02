@@ -20,6 +20,10 @@ Continuo o meu aperfeiçoamento utilizando o NextJS, Next UI, Nest JS. Estudando
 ---
 ## **PROJETOS**
 
+#### Revisitando o projeto de final de curso da Labenu, resolvi fazer um projeto sobre loterias. No momento, exibe os últimos resultados.
+
+###### **[LOTERIAS](https://github.com/leonardosimas/loterias)**
+
 #### Este é um gerador de senhas seguras e mnemônicos, um trabalho sobre criptografia e blockchain.
 
 ###### **[VIRTUAL WALLET AND PASSWORD](https://github.com/leonardosimas/virtual-wallet)**
