@@ -20,7 +20,7 @@ Continuo o meu aperfeiçoamento utilizando o NextJS, Next UI, Nest JS. Estudando
 ---
 ## **PROJETOS**
 
-#### Revisitando o projeto de final de curso da Labenu, resolvi fazer um projeto sobre loterias. No momento, exibe os últimos resultados.
+#### Revisitando o projeto de final de curso da Labenu, resolvi fazer um projeto sobre loterias. No momento, exibe os últimos resultados da Quina e da Megasena.
 
 ###### **[LOTERIAS](https://github.com/leonardosimas/loterias)**
 
