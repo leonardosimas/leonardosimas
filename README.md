@@ -20,6 +20,10 @@ Continuo o meu aperfeiçoamento utilizando o NextJS, Next UI, Nest JS. Estudando
 ---
 ## **PROJETOS**
 
+#### Como ajudar as crianças de um jeito fácil e rápido? Jogando é claro. Fiz um pequeno quiz de perguntas simples de Matemática, com as operações básicas de adição, subtração, multiplicação e divisão.
+
+###### **[MATEMÁTICA](https://github.com/leonardosimas/mathmagic)**
+
 #### Revisitando o projeto de final de curso da Labenu, resolvi fazer um projeto sobre loterias. No momento, exibe os últimos resultados da Quina e da Megasena.
 
 ###### **[LOTERIAS](https://github.com/leonardosimas/loterias)**
