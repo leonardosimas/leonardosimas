@@ -15,7 +15,7 @@ Continuo o meu aperfeiçoamento utilizando o NextJS, Next UI, Nest JS. Estudando
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,react,nextjs,nestjs,mysql,postgres,aws,mongodb,pug&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,vue,react,nextjs,nestjs,mysql,postgres,aws,mongodb,pug&perline=20)](https://skillicons.dev)
 
 ---
 ## **PROJETOS**
