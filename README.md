@@ -5,7 +5,10 @@ Labenu, onde desenvolvi projetos individuais e em grupo, em Javascript, Html,
 React, Node, Typescript. Hoje, continuo estudando e pronto para
 novos desafios e tecnologias.
 
-🔭 Atualmente faço parte da Equipe de desenvolvedores da **Dinocode Technologies**.
+Hoje no meu tempo livre, continuo estudando e desenvolvendo pequenos trabalhos.
+Estou estudando no momento o Vue 3 e o Vuetify 3
+
+🔭 Fiz parte da Equipe de desenvolvedores da **Dinocode Technologies**.
 Continuo o meu aperfeiçoamento utilizando o NextJS, Next UI, Nest JS. Estudando atualmente, Payload CMS e MongoDB.
 
 💬 Meu [linkedin](https://www.linkedin.com/in/leonardo-simas-b46271a5/)
@@ -19,6 +22,10 @@ Continuo o meu aperfeiçoamento utilizando o NextJS, Next UI, Nest JS. Estudando
 
 ---
 ## **PROJETOS**
+
+#### Simulador para o Sorteio Libertadores 2025.
+
+###### **[SIMULADOR](https://github.com/leonardosimas/sorteio-libertadores-2025)**
 
 #### Como ajudar as crianças de um jeito fácil e rápido? Jogando é claro. Fiz um pequeno quiz de perguntas simples de Matemática, com as operações básicas de adição, subtração, multiplicação e divisão.
 
